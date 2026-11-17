@@ -1,0 +1,8 @@
+{"format": "finde", "out": "out/finde", "prefix": "LR_finde",
+ "slides":[
+  {"tag": "GUÍA DE FIN DE SEMANA", "title": "Tres planes para un finde de ==playa==", "text": "Del viernes al domingo, sin gastar de más.", "role": "gancho", "photo": {"src": "fotos/parador_2.5.jpg", "caption": "IMAGEN ILUSTRATIVA GENERADA CON IA", "fy": 0.85}, "sticker": {"text": "GRATIS", "left": 110, "top": 400, "size": 230, "fs": 40}},
+  {"role": "dia", "day": "VIE", "tag": "MAR DEL PLATA", "title": "Atardecer con ==música== en el parador", "text": "Bandas en vivo frente al mar desde las 19.", "chips": ["19 HS", "ENTRADA LIBRE"], "photo": {"src": "fotos/parador_0.3.jpg", "caption": "IMAGEN ILUSTRATIVA GENERADA CON IA", "fy": 0.85}},
+  {"role": "dia", "day": "SÁB", "tag": "PLAYA GRANDE", "title": "Clase abierta de ==RCP== en la arena", "text": "Una hora para aprender a usar un desfibrilador.", "chips": ["10 HS", "GRATIS"], "photo": {"src": "fotos/guardavidas_2.5.jpg", "caption": "IMAGEN ILUSTRATIVA GENERADA CON IA", "fy": 0.5}},
+  {"role": "dia", "day": "DOM", "tag": "PUNTA MOGOTES", "title": "Feria de ==sabores== junto al faro", "text": "Más de 80 puestos de comida y artesanías.", "chips": ["TODO EL DÍA", "+80 PUESTOS"], "photo": {"src": "fotos/parador_4.6.jpg", "caption": "IMAGEN ILUSTRATIVA GENERADA CON IA", "fy": 0.85}},
+  {"role": "cierre", "title": "Nos vemos ==el lunes==", "cta": "Leé la agenda completa en"}
+ ]}

@@ -1,0 +1,61 @@
+{
+ "format": "panorama",
+ "out": "out/panorama",
+ "prefix": "LR_panorama",
+ "colors": [
+  "#EFE8D8",
+  "#042326",
+  "#C2412D"
+ ],
+ "intro": {
+  "tag": "PASO A PASO · DESLIZÁ →",
+  "title": "La cadena que ==salva== una vida",
+  "text": "Cuatro eslabones entre el paro cardíaco y la ambulancia. Cualquiera puede hacerlos.",
+  "photo": {
+   "src": "fotos/parador_2.5.jpg",
+   "fy": 0.85,
+   "caption": "IMAGEN ILUSTRATIVA GENERADA CON IA"
+  }
+ },
+ "stations": [
+  {
+   "label": "ESLABÓN 01 · RECONOCER",
+   "title": "No responde, ==no respira==",
+   "text": "Si se desploma y no reacciona, tratalo como un paro cardíaco.",
+   "photo": "fotos/colapso_2.5.jpg",
+   "fy": 0.62,
+   "zoom": 1.5,
+   "fx": 0.45
+  },
+  {
+   "label": "ESLABÓN 02 · LLAMAR",
+   "title": "Llamá al ==107== y pedí el DEA",
+   "text": "Una persona llama a emergencias. Otra corre a buscar el desfibrilador.",
+   "photo": "fotos/llamada_0.3.jpg",
+   "fy": 0.5,
+   "zoom": 1.35,
+   "fx": 0.5
+  },
+  {
+   "label": "ESLABÓN 03 · COMPRIMIR",
+   "title": "RCP: fuerte y ==rápido==",
+   "text": "Manos en el centro del pecho, 100 a 120 compresiones por minuto, sin parar.",
+   "icon": "3"
+  },
+  {
+   "label": "ESLABÓN 04 · DESFIBRILAR",
+   "title": "Encendé el DEA y ==seguí la voz==",
+   "text": "El equipo indica dónde van los parches y avisa si hay que dar la descarga.",
+   "photo": "fotos/parches_2.5.jpg",
+   "fy": 0.82,
+   "zoom": 1.2,
+   "fx": 0.4
+  }
+ ],
+ "outro": {
+  "tag": "CADA MINUTO CUENTA",
+  "title": "Sin ayuda, se pierde un ==10%== por minuto",
+  "text": "El 70% de los paros ocurre fuera del hospital: el primer eslabón siempre es alguien que estaba cerca.",
+  "tipo": "guía"
+ }
+}

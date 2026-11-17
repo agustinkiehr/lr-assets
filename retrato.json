@@ -1,0 +1,8 @@
+{"format": "retrato", "out": "out/retrato", "prefix": "LR_retrato",
+ "slides":[
+  {"role": "tapa", "tag": "ENTREVISTA", "name": "Martín Sosa", "title": "Guardavidas hace 12 temporadas", "photo": {"src": "fotos/guardavidas_3.0.jpg", "caption": "IMAGEN ILUSTRATIVA GENERADA CON IA", "fy": 0.5}},
+  {"role": "cita", "quote": "El primer minuto lo define ==el que está al lado==, no la ambulancia"},
+  {"role": "cita", "quote": "Aprendí RCP a los 19. ==Lo usé tres veces.==", "text": "Las tres en la misma playa, las tres en enero.", "photo": {"src": "fotos/guardavidas_2.5.jpg", "caption": "IMAGEN ILUSTRATIVA GENERADA CON IA", "fx": 0.3, "fy": 0.5}},
+  {"role": "cita", "quote": "El equipo habla solo. ==Lo difícil es animarse.=="},
+  {"role": "cierre", "title": "Cuidar también es ==saber qué hacer==", "tipo": "entrevista", "persona": "a Martín Sosa"}
+ ]}

@@ -1,0 +1,8 @@
+{"format": "caso", "out": "out/caso", "prefix": "LR_caso",
+ "slides":[
+  {"chapter": "01/05 · EL HECHO", "title": "Una muerte en la playa llega a ==juicio==", "text": "Un turista se descompensó en un balneario que no tenía desfibrilador.", "tag": "CASO DE MUESTRA", "hook": "¿Quién era responsable?", "photo": {"src": "fotos/colapso_2.5.jpg", "caption": "IMAGEN ILUSTRATIVA GENERADA CON IA", "fy": 0.6}},
+  {"chapter": "02/05 · LA DENUNCIA", "title": "La familia apuntó al ==concesionario==", "text": "Sostiene que el parador estaba obligado a tener un equipo y personal capacitado.", "hook": "¿Qué dijo la defensa?", "photo": {"src": "fotos/parador_2.5.jpg", "caption": "IMAGEN ILUSTRATIVA GENERADA CON IA", "fy": 0.85}},
+  {"chapter": "03/05 · LA DEFENSA", "title": "“La ambulancia ==tardó 14 minutos==”", "text": "El concesionario niega la obligación y responsabiliza al sistema de emergencias.", "hook": "¿Qué resolvió la Justicia?", "photo": {"src": "fotos/llamada_0.3.jpg", "caption": "IMAGEN ILUSTRATIVA GENERADA CON IA", "fy": 0.45}},
+  {"chapter": "04/05 · EL FALLO", "title": "El tribunal fijó ==fecha de juicio==", "text": "Será el primer debate oral de la provincia por la falta de un desfibrilador."},
+  {"layout": "cierre", "role": "cierre", "chapter": "05/05 · LO QUE VIENE", "title": "Un fallo que puede cambiar ==cada balneario==", "tipo": "nota"}
+ ]}

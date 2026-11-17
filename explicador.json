@@ -1,0 +1,8 @@
+{"format": "explicador", "out": "out/explicador", "prefix": "LR_explicador",
+ "slides":[
+  {"role": "gancho", "tag": "LEY DE MUERTE SÚBITA", "title": "Qué dice la ley sobre los ==desfibriladores==", "text": "Se sancionó en 2015 y se reglamentó en 2022. Tres preguntas para entenderla."},
+  {"title": "¿Qué ==obliga== a hacer?", "text": "A instalar desfibriladores externos automáticos (DEA) y a capacitar al personal en RCP y en el uso del equipo.", "photo": {"src": "fotos/guardavidas_3.0.jpg", "caption": "IMAGEN ILUSTRATIVA GENERADA CON IA", "fy": 0.56}},
+  {"title": "¿A quiénes ==alcanza==?", "text": "A los espacios públicos y privados de acceso público por donde pasan más de 1.000 personas por día.", "photo": {"src": "fotos/parador_2.5.jpg", "caption": "IMAGEN ILUSTRATIVA GENERADA CON IA", "fy": 0.85}},
+  {"title": "¿Y si lo uso y ==sale mal==?", "text": "La ley protege a quien hace RCP o usa un DEA en una emergencia.", "photo": {"src": "fotos/llamada_0.3.jpg", "caption": "IMAGEN ILUSTRATIVA GENERADA CON IA", "fy": 0.45}},
+  {"role": "cierre", "title": "En una línea: equipo cerca y ==gente que sepa usarlo==", "tipo": "nota"}
+ ]}

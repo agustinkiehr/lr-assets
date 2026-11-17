@@ -1,0 +1,8 @@
+{"format": "investigacion", "out": "out/investigacion", "prefix": "LR_investigacion",
+ "slides":[
+  {"role": "gancho", "tag": "RELEVAMIENTO · DATOS DE MUESTRA", "title": "¿Cuántos balnearios tienen un ==desfibrilador==?", "text": "Recorrimos 40 paradores de la costa para verlo en persona.", "photo": {"src": "fotos/parador_2.5.jpg", "caption": "IMAGEN ILUSTRATIVA GENERADA CON IA", "fy": 0.85}, "notes": [{"x": 0.36, "y": 0.42, "text": "PARADOR RELEVADO"}]},
+  {"label": "EVIDENCIA 01", "title": "Solo ==9 de 40== lo tenían a la vista", "text": "En el resto no había equipo o nadie supo decir dónde estaba.", "photo": {"src": "fotos/guardavidas_2.5.jpg", "caption": "IMAGEN ILUSTRATIVA GENERADA CON IA", "fy": 0.5}, "notes": [{"x": 0.62, "y": 0.5, "text": "GABINETE DEL DEA"}]},
+  {"role": "ficha", "label": "EVIDENCIA 02", "title": "Lo que encontramos", "rows": [["Con DEA a la vista", "9"], ["Con DEA bajo llave", "6"], ["Sin DEA", "25"], ["Con personal capacitado", "11"]]},
+  {"label": "EVIDENCIA 03", "title": "En ==6== estaba bajo llave", "text": "El equipo existía, pero quien tenía la llave no estaba en el lugar.", "photo": {"src": "fotos/llamada_0.3.jpg", "caption": "IMAGEN ILUSTRATIVA GENERADA CON IA", "fy": 0.45}, "notes": [{"x": 0.5, "y": 0.6, "text": "LLAMADA AL 107"}]},
+  {"role": "cierre", "title": "Tener el equipo ==no es estar preparado==", "tipo": "investigación"}
+ ]}

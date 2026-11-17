@@ -1,0 +1,9 @@
+{"format": "historias", "out": "out/historias", "prefix": "LR_historias",
+ "slides":[
+  {"role": "gancho", "tag": "HISTORIAS · SALUD", "title": "Cinco minutos en la ==playa==", "text": "Un hombre se desploma en la orilla. Lo que pase ahora depende de quien esté cerca.", "photo": {"src": "fotos/colapso_2.5.jpg", "fy": 0.62, "caption": "IMAGEN ILUSTRATIVA GENERADA CON IA"}},
+  {"tag": "MINUTO 1", "title": "Alguien llama. ==Alguien corre.==", "text": "Primer paso: pedir ayuda al 107 y mandar a buscar el desfibrilador.", "photo": {"src": "fotos/llamada_0.3.jpg", "fy": 0.42, "caption": "IMAGEN ILUSTRATIVA GENERADA CON IA"}},
+  {"tag": "MINUTO 2", "title": "El equipo está ==a metros==", "text": "El DEA cuelga en el parador. Se abre, se enciende y habla: indica qué hacer paso a paso.", "photo": {"src": "fotos/guardavidas_3.0.jpg", "fy": 0.56, "caption": "IMAGEN ILUSTRATIVA GENERADA CON IA"}},
+  {"tag": "MINUTO 3", "title": "Dos parches y ==una voz==", "text": "El aparato analiza el corazón y decide solo si hace falta la descarga. No se necesita ser médico.", "photo": {"src": "fotos/parches_2.5.jpg", "fy": 0.78, "caption": "IMAGEN ILUSTRATIVA GENERADA CON IA"}},
+  {"role": "cita", "quote": "Hay cada vez más desfibriladores, pero ==no hay gente capacitada== o el lugar no está preparado para atender una emergencia", "author": "Mariano Puglia", "role_text": "Gerente de la Fundación Desfibrilar"},
+  {"role": "cierre", "title": "Que haya un equipo no alcanza. ==Hay que saber usarlo.==", "tipo": "historia"}
+ ]}

@@ -1,0 +1,8 @@
+{"format": "chequeo", "out": "out/chequeo", "prefix": "LR_chequeo",
+ "slides":[
+  {"role": "frase", "claim": "Si usás un desfibrilador y sale mal, ==te pueden hacer juicio==", "who": "FRASE QUE CIRCULA EN REDES"},
+  {"label": "PRUEBA 01", "title": "La ley ==protege== a quien ayuda", "text": "La norma de muerte súbita ampara a quienes hacen RCP o usan un DEA en una emergencia.", "photo": {"src": "fotos/parches_2.5.jpg", "caption": "IMAGEN ILUSTRATIVA GENERADA CON IA", "fy": 0.8}},
+  {"label": "PRUEBA 02", "title": "El equipo ==decide solo==", "text": "El DEA analiza el ritmo y solo habilita la descarga si hace falta. No se puede disparar por error.", "photo": {"src": "fotos/guardavidas_3.0.jpg", "caption": "IMAGEN ILUSTRATIVA GENERADA CON IA", "fx": 0.3, "fy": 0.6}},
+  {"role": "veredicto", "verdict": "FALSO", "text": "Usar un desfibrilador en una emergencia está amparado por la ley."},
+  {"role": "cierre", "title": "Ante la duda, ==actuá==", "tipo": "nota"}
+ ]}

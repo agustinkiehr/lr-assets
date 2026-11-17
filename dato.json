@@ -1,0 +1,8 @@
+{"format": "dato", "out": "out/dato", "prefix": "LR_dato", "tag": "MUERTE SÚBITA · EN CIFRAS", "curve": [0.92, 0.74, 0.2, 0.62, 0.9],
+ "slides":[
+  {"role": "gancho", "n": "40.000", "title": "argentinos por año mueren de muerte súbita", "text": "Es la estimación oficial: un caso cada 1.000 habitantes."},
+  {"role": "cifra", "n": "70%", "label": "ocurre fuera del hospital", "text": "En casa, en el trabajo, en el club, en la playa."},
+  {"role": "cifra", "n": "10%", "label": "menos de chances por minuto", "text": "Por cada minuto sin reanimación, la probabilidad de sobrevivir cae cerca de un 10%."},
+  {"role": "cifra", "n": "3 a 5", "label": "minutos para la descarga", "text": "Con un desfibrilador en ese tiempo, la supervivencia puede llegar al 50–70%."},
+  {"role": "cierre", "title": "El que está al lado es el que ==salva==", "text": "Desde 2022 la ley obliga a tener un desfibrilador donde pasan más de 1.000 personas por día.", "tipo": "nota"}
+ ]}
